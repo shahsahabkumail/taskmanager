@@ -1,0 +1,14 @@
+# Environment configuration files containing secrets
+.env
+
+# Python artifacts
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+env/
+
+# OS metadata
+.DS_Store
+Thumbs.db
